@@ -1,6 +1,3 @@
-- 👋 Hi, I’m @BetaSpyder
-- 👀 I’m interested in Python, ML,Data Analysis,HTML,SQL,JS,WEB3, Solidity...
-- 🌱 I’m currently learning .Solidity, NFT..
-
-
-
+<div id="header" align="center">
+ <img scrc="https://media.giphy.com/media/cJ4qe21kwG02fP4mEz/giphy.gif" width="100"/>
+  </div>
